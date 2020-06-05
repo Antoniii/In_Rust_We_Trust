@@ -5,3 +5,4 @@
 * [Rust](https://rurust.github.io/rust_book_ru/getting-started.html) 
 * [C](https://github.com/olegbukatchuk/book-100-examples-on-c)
 * [Алгоритмы](https://yadi.sk/i/Wv-b1zqdZPBVDg)
+* [Книга с крабом](https://yadi.sk/i/23gxOnKRip2pMQ)
